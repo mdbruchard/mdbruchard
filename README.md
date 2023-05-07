@@ -37,7 +37,7 @@ libraries = dict(
                 Scikit_learn = True,
                 Numpay = True,
                 Matlibplot = True,
-                Tensorflow = True
+                Tensorflow = True,
                 Seaborn = True
                 )
 ```
