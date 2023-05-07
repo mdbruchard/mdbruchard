@@ -28,7 +28,8 @@ I recentely graduated in Data Science 👨‍🔬 from Le Wagon and graduated in
 Tools = dict(
             HTML = True,
             CSS = True,
-            Python = True
+            Python = True,
+            JavaScript = True,
             Django = True,
             SQL = True,
             Machine_Learning = True
