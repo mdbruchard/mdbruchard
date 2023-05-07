@@ -30,7 +30,7 @@ Tools = dict(
             SQL = True,
             Machine_Learning = True
             )
- libraries = dict(
+libraries = dict(
                 Pandas = True,
                 Scikit_learn = True,
                 Numpay = True,
@@ -38,6 +38,6 @@ Tools = dict(
                 Tensorflow = True
                 Seaborn = True
                 )
-                ```
+```
 
 I also have knowledge in Microsoft Excel and Tableau. Here is my [portfolio](troopl.com/mdbruchard), feel free to have a look
