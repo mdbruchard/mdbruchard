@@ -46,4 +46,4 @@ libraries = dict(
                 )
 ```
 
-I also have knowledge in Microsoft Excel and Tableau. Here is my [portfolio](troopl.com/mdbruchard), feel free to have a look
+I also have knowledge in Microsoft Excel and Tableau. Here is my [portfolio](https://troopl.com/mdbruchard), feel free to have a look
